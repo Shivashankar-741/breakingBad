@@ -27,7 +27,7 @@ const App = () => {
 			<div className="inputField">
 				<input
 					type="text"
-					placeholder="Search characters..."
+					placeholder="Search characterssss..."
 					className="inputField--in"
 					onChange={characterName}
 				/>
